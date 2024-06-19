@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ms-27&theme=onedark)](https://github.com/ms-27/github-profile-trophy)
+
 <!--
 **Ms-27/Ms-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
