@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ms-27&theme=alduin&rank=-C,-B,-?)](https://github.com/ms-27/github-profile-trophy)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ms-27&hide=JavaScript,html&theme=algolia&show_icons=true)](https://github.com/ms-27)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ms-27&hide=JavaScript,html,css&theme=algolia&show_icons=true)](https://github.com/ms-27)
 
 <!--
 **Ms-27/Ms-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
