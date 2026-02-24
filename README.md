@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ms-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ms-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ### 📈 Language Distribution (Donut Chart)
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
+![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ms-27&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ms-27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ms-27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/ms-27/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ms-27&color=blueviolet&style=flat-square)
 
 **Thanks for visiting!** 🚀
 
