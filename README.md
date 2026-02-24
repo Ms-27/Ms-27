@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ms-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ms-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ### 📈 Language Distribution (Donut Chart)
 
-![Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ms-27&layout=donut&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Distribution" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ms-27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=ms-27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -46,11 +46,11 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ms-27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=ms-27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
-## �️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
