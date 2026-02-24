@@ -10,31 +10,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ms-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</div>
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-### 📈 Language Distribution (Donut Chart)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-27&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Language Distribution" />
-
-</div>
-
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -42,11 +18,28 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+## 💻 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ms-27&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ms-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ms-27)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ms-27&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ms-27&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ms-27&theme=tokyonight)
+
+</div>
 
 </div>
 
